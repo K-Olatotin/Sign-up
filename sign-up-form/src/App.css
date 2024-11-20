@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    font-family: poppins;
+    background-color: #f87878;
+    font-weight:  400, 500, 600, 700;
+  }
+  
+  .app-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    padding: 0 20px;
+  }
+  
